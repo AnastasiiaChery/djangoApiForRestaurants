@@ -1,0 +1,32 @@
+[
+    {
+        "name": "McDonald's",
+        "average_bill": 6,
+        "rank": 3.6,
+        "menu": [
+            "burger",
+            "cola",
+            "french fries"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "average_bill": 10,
+        "rank": 4.2,
+        "menu": [
+            "pizza",
+            "cola"
+        ]
+    },
+    {
+        "name": "Smaki-Maki",
+        "average_bill": 5,
+        "rank": 4.0,
+        "menu": [
+            "sushi",
+            "tea",
+            "fish"
+        ]
+    }
+    ]
+
